@@ -1,2 +1,2 @@
 # TexToPNG-telegram-bot
-Simple LaTeX math to png image telegram bot
+Simple telegram bot to convert LaTeX math code to .png image.
